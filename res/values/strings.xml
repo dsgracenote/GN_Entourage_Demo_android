@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GN_Entourage_Demo_AndroidActivity!</string>
+    <string name="app_name">GN_Entourage_Demo_Android</string>
+    <string name="client_id"></string>
+    <string name="client_tag"></string>
+    <string name="license_text"></string>
+
+</resources>
